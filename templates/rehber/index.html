@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+{% csrf_token %}
+{% for kisi in kisiler %}
+    <p>{{ kisi.Adi }}</p>
+    <br>
+    {% for telefon in kisi.Telefons.all %}
+        <p>{{ telefon.Telefon }}</p>
+    {% endfor %}
+
+
+{% endfor %}
+
+<a href="#" onclick="test()">Test</a>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script>
+
+    function test() {
+        $.ajax({
+            type: 'POST',
+            url: '/rehber/get_kisi_telefonlari/',
+            data: {
+                KisiID: 1,
+                csrfmiddlewaretoken: jQuery("[name=csrfmiddlewaretoken]").val()
+            },
+            success: function (data) {
+                debugger;
+                console.log(data)
+                data.forEach(function (item) {
+                    alert(item.fields.Telefon)
+                });
+            }
+        });
+    }
+
+</script>
+</body>
+</html>

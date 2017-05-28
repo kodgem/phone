@@ -1,44 +1,122 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-</head>
-<body>
+{% extends 'base.html' %}
+{% load static %}
 
-{% csrf_token %}
-{% for kisi in kisiler %}
-    <p>{{ kisi.Adi }}</p>
-    <br>
-    {% for telefon in kisi.Telefons.all %}
-        <p>{{ telefon.Telefon }}</p>
-    {% endfor %}
+{% block body %}
+    <div id="page_content">
+        <div id="page_content_inner">
 
 
-{% endfor %}
+            <div class="uk-grid uk-grid-width-large-1-2 uk-grid-width-xlarge-1-2 uk-grid-medium listNavWrapper"
+                 id="contact_list_v2" data-uk-grid-match="{target:'.md-card'}">
 
-<a href="#" onclick="test()">Test</a>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-<script>
+                {% for kisi in kisiler %}
 
-    function test() {
-        $.ajax({
-            type: 'POST',
-            url: '/rehber/get_kisi_telefonlari/',
-            data: {
-                KisiID: 1,
-                csrfmiddlewaretoken: jQuery("[name=csrfmiddlewaretoken]").val()
-            },
-            success: function (data) {
-                debugger;
-                console.log(data)
-                data.forEach(function (item) {
-                    alert(item.fields.Telefon)
-                });
-            }
-        });
-    }
+                    <div id="kisidiv{{ kisi.KisiID }}" class="uk-margin-medium-top">
+                        <div class="md-card md-card-hover md-card-horizontal">
+                            <div class="md-card-head">
+                                <div class="md-card-head-menu" data-uk-dropdown="{pos:'bottom-left'}">
+                                    <i class="md-icon material-icons">&#xE5D4;</i>
+                                    <div class="uk-dropdown uk-dropdown-small">
+                                        <ul class="uk-nav">
+                                            <li><a href="#">Düzenle</a></li>
+                                            <li><a href="#" onclick="kisisil({{ kisi.KisiID }})">Sil</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="uk-text-center">
+                                    {% if kisi.Resim %}
+                                        <img class="md-card-head-avatar" src="{{ kisi.Resim.url }}" alt=""/>
+                                    {% else %}
+                                        <img class="md-card-head-avatar"
+                                             src="{% static 'assets/img/avatars/user.png' %}" alt=""/>
+                                    {% endif %}
+                                </div>
+                                <h3 class="md-card-head-text uk-text-center">
+                                    <span class="listNavSelector">{{ kisi.Adi }}</span> {{ kisi.Soyadi }}
+                                    <span class="uk-text-truncate">{{ kisi.KisiID }}</span>
+                                </h3>
+                            </div>
+                            <div class="md-card-content">
+                                <ul class="md-list">
+                                    <li>
+                                        <div class="md-list-content">
+                                            <span class="md-list-heading">Bilgi</span>
+                                            <span class="uk-text-small uk-text-muted">Vel ipsa repudiandae voluptas earum voluptatem voluptatum omnis.</span>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="md-list-content">
+                                            <span class="md-list-heading">Mail</span>
+                                            <span class="uk-text-small uk-text-muted uk-text-truncate">
+                                            {% for eposta in kisi.Epostas.all %}
+                                                {{ eposta.Eposta }} ,
+                                            {% endfor %}
+                                            </span>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="md-list-content">
+                                            <span class="md-list-heading">Telefonlar</span>
+                                            <span class="uk-text-small uk-text-muted">
+                                        {% for tel in kisi.Telefons.all %}
+                                            {{ tel.Telefon }} ,
+                                        {% endfor %}
+                                    </span>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
 
-</script>
-</body>
-</html>
+                {% endfor %}
+
+
+            </div>
+
+
+        </div>
+    </div>
+
+{% endblock %}
+
+
+{% block script %}
+
+    <!-- listNav  -->
+    <script src="{% static 'bower_components/jquery-listnav/jquery-listnav.js' %}"></script>
+
+    <!--  contact list v2 functions -->
+    <script src="{% static 'assets/js/pages/page_contact_list_v2.min.js' %}"></script>
+
+    <script>
+
+        function kisisil(id) {
+            $.ajax({
+                url: '../kisisil',
+                type: 'DELETE',
+                data: {KisiID: id},
+                dataType: 'json',
+                success: function (data, textStatus, xhr) {
+                    if(data.KOD == 200)
+                    {
+                        // sonuç başarılı
+                        debugger;
+                        $('#kisidiv'+id).remove()
+                        toast("Silindi")
+                        //alert(data.Sonuc);
+                    }
+                    else if(data.KOD == 404)
+                    {
+                        alert(data.Sonuc);
+                    }
+                },
+                error: function (errormessage, textStatus, xhr) {
+                     console.log(errormessage);
+                    console.log(textStatus);
+                    console.log(xhr);
+                }
+            });
+        }
+    </script>
+{% endblock %}

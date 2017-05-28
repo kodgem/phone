@@ -9,6 +9,9 @@ urlpatterns = [
     url(r'^test/$', test, name='test'),
     url(r'^get_kisi_telefonlari/$', get_kisi_telefonlari, name='get_kisi_telefonlari'),
     url(r'^api/$', KisiList.as_view(), name='api'),
+    url(r'^kisiler/$', kisiler, name='kisiler'),
+    url(r'^kisilerekle/$', kisilerekle, name='kisilerekle'),
+    url(r'^kisisil/$', kisisil, name='kisisil'),
 ]
 
 urlpatterns = format_suffix_patterns(urlpatterns)

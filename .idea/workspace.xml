@@ -1,7 +1,588 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6efece55-b6a0-4858-bca7-a2125724bc7c" name="Default" comment="" />
+    <list default="true" id="6efece55-b6a0-4858-bca7-a2125724bc7c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/icons/flags/flags.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/icons/flags/flags@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/icons/material-design-icons/MaterialIcons-Regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/icons/material-design-icons/MaterialIcons-Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/icons/material-design-icons/MaterialIcons-Regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/icons/material-design-icons/MaterialIcons-Regular.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/icons/others/envato_ico.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/avatars/avatar_01.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/avatars/avatar_01@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/avatars/avatar_01_tn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/avatars/avatar_01_tn@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/avatars/avatar_02.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/avatars/avatar_02@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/avatars/avatar_02_tn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/avatars/avatar_02_tn@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/avatars/avatar_03.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/avatars/avatar_03@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/avatars/avatar_03_tn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/avatars/avatar_03_tn@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/avatars/avatar_04.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/avatars/avatar_04@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/avatars/avatar_04_tn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/avatars/avatar_04_tn@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/avatars/avatar_05.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/avatars/avatar_05@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/avatars/avatar_05_tn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/avatars/avatar_05_tn@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/avatars/avatar_06.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/avatars/avatar_06@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/avatars/avatar_06_tn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/avatars/avatar_06_tn@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/avatars/avatar_07.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/avatars/avatar_07@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/avatars/avatar_07_tn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/avatars/avatar_07_tn@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/avatars/avatar_08.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/avatars/avatar_08@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/avatars/avatar_08_tn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/avatars/avatar_08_tn@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/avatars/avatar_09.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/avatars/avatar_09@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/avatars/avatar_09_tn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/avatars/avatar_09_tn@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/avatars/avatar_10.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/avatars/avatar_10@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/avatars/avatar_10_tn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/avatars/avatar_10_tn@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/avatars/avatar_11.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/avatars/avatar_11@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/avatars/avatar_11_tn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/avatars/avatar_11_tn@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/avatars/avatar_11_tn@4x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/avatars/avatar_12.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/avatars/avatar_12@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/avatars/avatar_12_tn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/avatars/avatar_12_tn@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/avatars/user-alt.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/avatars/user-alt@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/avatars/user.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/avatars/user@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/blank.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/ecommerce/s6_edge.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/ecommerce/s6_edge@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/ecommerce/s6_edge_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/ecommerce/s6_edge_1@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/ecommerce/s6_edge_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/ecommerce/s6_edge_2@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/ecommerce/s6_edge_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/ecommerce/s6_edge_3@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/favicon-16x16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/favicon-32x32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/gallery/Image01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/gallery/Image01@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/gallery/Image02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/gallery/Image02@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/gallery/Image03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/gallery/Image03@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/gallery/Image04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/gallery/Image04@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/gallery/Image05.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/gallery/Image05@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/gallery/Image06.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/gallery/Image06@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/gallery/Image07.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/gallery/Image07@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/gallery/Image08.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/gallery/Image08@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/gallery/Image09.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/gallery/Image09@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/gallery/Image10.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/gallery/Image10@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/gallery/Image11.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/gallery/Image11@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/gallery/Image12.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/gallery/Image12@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/gallery/Image13.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/gallery/Image13@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/gallery/Image14.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/gallery/Image14@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/gallery/Image15.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/gallery/Image15@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/gallery/Image16.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/gallery/Image16@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/gallery/Image17.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/gallery/Image17@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/gallery/Image18.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/gallery/Image18@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/gallery/Image19.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/gallery/Image19@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/gallery/Image20.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/gallery/Image20@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/gallery/Image21.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/gallery/Image21@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/gallery/Image22.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/gallery/Image22@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/gallery/Image23.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/gallery/Image23@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/gallery/Image24.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/gallery/Image24@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/gallery/image_cropp.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/logo_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/logo_main.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/logo_main@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/logo_main_small.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/logo_main_small@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/logo_main_small_light.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/logo_main_small_light@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/logo_main_white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/logo_main_white@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/md-images/ic_beenhere_black_24dp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/md-images/ic_beenhere_black_48dp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/md-images/ic_beenhere_blue_24dp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/md-images/ic_beenhere_blue_48dp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/md-images/ic_beenhere_red_24dp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/md-images/ic_beenhere_red_48dp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/md-images/ic_local_dining_black_24dp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/md-images/ic_local_dining_black_48dp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/md-images/ic_local_dining_blue_24dp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/md-images/ic_local_dining_blue_48dp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/md-images/ic_local_dining_red_24dp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/md-images/ic_local_dining_red_48dp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/md-images/ic_location_history_black_24dp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/md-images/ic_location_history_black_48dp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/md-images/ic_location_history_blue_24dp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/md-images/ic_location_history_blue_48dp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/md-images/ic_location_history_red_24dp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/md-images/ic_location_history_red_48dp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/md-images/ic_place_black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/md-images/ic_place_black@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/md-images/ic_place_black_24dp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/md-images/ic_place_black_48dp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/md-images/ic_place_blue_24dp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/md-images/ic_place_blue_48dp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/md-images/ic_place_red_24dp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/md-images/ic_place_red_48dp.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/others/envato_ico.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/others/html5-css-javascript-logos.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/sidebar_head_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/sidebar_head_bg@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/sidebar_head_bg_dark.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/sidebar_head_bg_dark@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/spinners/spinner.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/spinners/spinner@2x.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/spinners/spinner_danger.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/spinners/spinner_danger@2x.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/spinners/spinner_large.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/spinners/spinner_large@2x.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/spinners/spinner_medium.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/spinners/spinner_medium@2x.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/spinners/spinner_small.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/spinners/spinner_small@2x.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/spinners/spinner_success.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/spinners/spinner_success@2x.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/spinners/spinner_warning.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/img/spinners/spinner_warning@2x.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/dropify/dist/fonts/dropify.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/dropify/dist/fonts/dropify.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/dropify/dist/fonts/dropify.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/dropify/src/fonts/dropify.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/dropify/src/fonts/dropify.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/dropify/src/fonts/dropify.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/dropify/src/images/cover.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/dropify/src/images/test-image-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/dropify/src/images/test-image-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/dev/icons16.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/dev/icons32.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/icons/bgcolor.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/icons/blockquote.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/icons/bold.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/icons/bulletedlist.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/icons/hdpi/bgcolor.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/icons/hdpi/blockquote.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/icons/hdpi/bold.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/icons/hdpi/bulletedlist.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/icons/hdpi/indent.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/icons/hdpi/italic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/icons/hdpi/justifyblock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/icons/hdpi/justifycenter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/icons/hdpi/justifyleft.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/icons/hdpi/justifyright.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/icons/hdpi/numberedlist.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/icons/hdpi/outdent.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/icons/hdpi/removeformat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/icons/hdpi/smiley.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/icons/hdpi/textcolor.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/icons/indent.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/icons/italic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/icons/justifyblock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/icons/justifycenter.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/icons/justifyleft.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/icons/justifyright.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/icons/numberedlist.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/icons/outdent.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/icons/removeformat.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/icons/smiley.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/icons/textcolor.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/images/arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/images/close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/images/hidpi/close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/images/hidpi/lock-open.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/images/hidpi/lock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/images/hidpi/refresh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/images/hidpi/spinner.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/images/lock-open.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/images/lock.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/images/refresh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/images/spinner.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/dropify/fonts/dropify.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/dropify/fonts/dropify.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/dropify/fonts/dropify.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/jquery-ui/_material/images/animated-overlay.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/jquery-ui/_material/images/ui-bg_flat_0_aaaaaa_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/jquery-ui/_material/images/ui-bg_flat_75_ffffff_40x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/jquery-ui/_material/images/ui-bg_glass_55_fbf9ee_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/jquery-ui/_material/images/ui-bg_glass_65_ffffff_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/jquery-ui/_material/images/ui-bg_glass_75_dadada_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/jquery-ui/_material/images/ui-bg_glass_75_e6e6e6_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/jquery-ui/_material/images/ui-bg_glass_95_fef1ec_1x400.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/jquery-ui/_material/images/ui-bg_highlight-soft_75_cccccc_1x100.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/jquery-ui/_material/images/ui-icons_222222_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/jquery-ui/_material/images/ui-icons_2e83ff_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/jquery-ui/_material/images/ui-icons_454545_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/jquery-ui/_material/images/ui-icons_888888_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/jquery-ui/_material/images/ui-icons_cd0a0a_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/jquery-ui/material/images/ui-icons_212121_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/jquery-ui/material/images/ui-icons_454545_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/jquery-ui/material/images/ui-icons_727272_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/jquery-ui/material/images/ui-icons_e53935_256x240.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/jquery.fancytree/icons.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/jquery.fancytree/icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/jquery.fancytree/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/jtable/close.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/jtable/close@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/jtable/column-asc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/jtable/column-asc@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/jtable/column-desc.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/jtable/column-desc@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/jtable/column-sortable.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/jtable/column-sortable@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/jtable/delete.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/jtable/delete@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/jtable/edit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/jtable/edit@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/jtable/spinner.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/jtable/spinner@2x.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/tinymce/material_design/fonts/tinymce-small.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/tinymce/material_design/fonts/tinymce-small.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/tinymce/material_design/fonts/tinymce-small.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/tinymce/material_design/fonts/tinymce.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/tinymce/material_design/fonts/tinymce.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/tinymce/material_design/fonts/tinymce.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/tinymce/material_design/img/anchor.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/tinymce/material_design/img/loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/tinymce/material_design/img/object.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/tinymce/material_design/img/trans.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/tinymce/material_design/img/wline.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/codemirror_themes.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/error_page.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/error_page.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/error_page.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/ie.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/login_page.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/login_page.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/login_page.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/main.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/main.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/main.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/style_switcher.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/style_switcher.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/themes/_theme_a.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/themes/_theme_a.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/themes/_theme_b.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/themes/_theme_b.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/themes/_theme_c.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/themes/_theme_c.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/themes/_theme_d.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/themes/_theme_d.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/themes/_theme_dark.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/themes/_theme_dark.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/themes/_theme_e.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/themes/_theme_e.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/themes/_theme_f.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/themes/_theme_f.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/themes/_theme_g.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/themes/_theme_g.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/themes/_theme_h.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/themes/_theme_h.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/themes/_theme_i.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/themes/_theme_i.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/themes/my_theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/themes/my_theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/css/themes/themes_combined.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/icons/flags/Hello.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/icons/flags/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/icons/flags/flags.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/icons/flags/flags.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/icons/material-design-icons/MaterialIcons-Regular.ijmap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/icons/material-design-icons/MaterialIcons-Regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/icons/material-design-icons/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/icons/material-design-icons/codepoints" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/icons/material-design-icons/material-icons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/icons/others/ic_attachment_black_18px.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/icons/others/ic_audiotrack_black_18px.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/icons/others/ic_bug_report_black_18px.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/icons/others/ic_code_black_18px.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/icons/others/ic_file_download_black_18px.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/icons/others/ic_insert_emoticon_black_18px.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/icons/others/ic_wallpaper_black_18px.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/altair_admin_common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/altair_admin_common.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/common.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/ckeditor_config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/ckeditor_config.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/codemirror_fullscreen.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/codemirror_fullscreen.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/datatables/buttons.uikit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/datatables/datatables.uikit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/datatables/datatables.uikit.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/dense.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/dense.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/dropify/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/dropify/dist/css/demo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/dropify/dist/css/dropify.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/dropify/dist/css/dropify.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/dropify/dist/fonts/dropify.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/dropify/dist/js/dropify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/dropify/dist/js/dropify.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/dropify/gulpfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/dropify/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/dropify/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/dropify/src/fonts/dropify.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/dropify/src/js/dropify.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/dropify/src/sass/_dropify-font.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/dropify/src/sass/demo.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/dropify/src/sass/demo/_grid.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/dropify/src/sass/demo/_normalize.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/dropify/src/sass/demo/_reset.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/dropify/src/sass/demo/_typo.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/dropify/src/sass/demo/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/dropify/src/sass/demo/helpers/_grid.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/dropify/src/sass/demo/helpers/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/dropify/src/sass/demo/helpers/_shortcuts.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/dropify/src/sass/dropify.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/echarts/maps/china.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/echarts/maps/world.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/gantt_chart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/gantt_chart.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/handlebars_helpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/handlebars_helpers.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/jquery.waitforimages.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/jquery.waitforimages.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/slickQuiz/slickQuiz.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/slickQuiz/slickQuiz.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/uikit_beforeready.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/uikit_beforeready.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/uikit_datepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/uikit_datepicker.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/uikit_fileinput.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/uikit_fileinput.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/uikit_sortable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/uikit_sortable.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/uikit_timepicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/uikit_timepicker.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/wizard_steps.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/custom/wizard_steps.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/kendoui_custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/kendoui_custom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/components_animations.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/components_animations.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/components_cards.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/components_cards.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/components_list_grid_view.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/components_list_grid_view.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/components_nestable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/components_nestable.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/components_notifications.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/components_notifications.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/components_preloaders.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/components_preloaders.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/components_sortable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/components_sortable.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/dashboard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/dashboard.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/ecommerce_product_edit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/ecommerce_product_edit.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/forms_advanced.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/forms_advanced.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/forms_file_input.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/forms_file_input.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/forms_file_upload.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/forms_file_upload.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/forms_validation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/forms_validation.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/forms_wizard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/forms_wizard.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/forms_wysiwyg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/forms_wysiwyg.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/kendoui.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/kendoui.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/login.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/login.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/page_chat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/page_chat.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/page_chat_small.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/page_chat_small.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/page_contact_list.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/page_contact_list.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/page_contact_list_v2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/page_contact_list_v2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/page_gallery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/page_gallery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/page_help.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/page_help.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/page_invoices.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/page_invoices.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/page_mailbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/page_mailbox.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/page_mailbox_v2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/page_mailbox_v2.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/page_notes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/page_notes.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/page_quiz.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/page_quiz.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/page_scrum_board.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/page_scrum_board.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/page_search.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/page_search.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/page_settings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/page_settings.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/page_snippets.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/page_snippets.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/page_sticky_notes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/page_sticky_notes.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/page_todo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/page_todo.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/page_user_edit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/page_user_edit.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/pages_issues.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/pages_issues.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/plugins_charts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/plugins_charts.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/plugins_charts_echarts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/plugins_charts_echarts.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/plugins_code_editor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/plugins_code_editor.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/plugins_context_menu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/plugins_context_menu.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/plugins_crud_table.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/plugins_crud_table.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/plugins_datatables.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/plugins_datatables.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/plugins_diff.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/plugins_diff.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/plugins_filemanager.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/plugins_filemanager.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/plugins_fullcalendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/plugins_fullcalendar.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/plugins_gantt_chart.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/plugins_gantt_chart.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/plugins_google_maps.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/plugins_google_maps.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/plugins_idle_timeout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/plugins_idle_timeout.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/plugins_image_cropper.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/plugins_image_cropper.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/plugins_push_notifications.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/plugins_push_notifications.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/plugins_tablesorter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/plugins_tablesorter.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/plugins_tour.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/plugins_tour.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/plugins_tree.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/plugins_tree.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/plugins_vector_maps.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/pages/plugins_vector_maps.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/uikit_custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/uikit_custom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/uikit_htmleditor_custom.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/js/uikit_htmleditor_custom.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/colorpanel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/dev/icons16.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/dev/icons32.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/dev/locations.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/dialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/dialog_ie.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/dialog_ie7.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/dialog_ie8.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/dialog_iequirks.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/editor.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/editor_gecko.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/editor_ie.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/editor_ie7.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/editor_ie8.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/editor_iequirks.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/elementspath.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/mainui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/menu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/notification.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/panel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/presets.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/reset.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/richcombo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/skin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/ckeditor/material_design/toolbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/dropify/css/dropify.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/dropify/fonts/dropify.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/dropify/sass/_dropify-font.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/dropify/sass/dropify.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/jquery-ui/_material/jquery-ui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/jquery-ui/_material/jquery-ui.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/jquery-ui/_material/theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/jquery-ui/material/jquery-ui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/jquery-ui/material/jquery-ui.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/jquery-ui/material/jquery-ui.structure.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/jquery-ui/material/jquery-ui.structure.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/jquery-ui/material/jquery-ui.theme.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/jquery-ui/material/jquery-ui.theme.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/jquery.fancytree/skin-common.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/jquery.fancytree/ui.fancytree.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/jquery.fancytree/ui.fancytree.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/jquery.fancytree/ui.fancytree.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/jtable/jtable.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/jtable/jtable.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/jtable/jtable.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/jtable/jtable_theme_base.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/tinymce/material_design/Variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/tinymce/material_design/content.inline.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/tinymce/material_design/content.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/tinymce/material_design/fonts/tinymce-small.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/tinymce/material_design/fonts/tinymce.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/tinymce/material_design/skin.ie7.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/tinymce/material_design/skin.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/assets/skins/tinymce/material_design/skin.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower_components/jquery-listnav/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower_components/jquery-listnav/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower_components/jquery-listnav/css/listnav.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower_components/jquery-listnav/css/listnav.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower_components/jquery-listnav/gruntfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower_components/jquery-listnav/jquery-listnav.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower_components/jquery-listnav/jquery-listnav.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower_components/jquery-listnav/license.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower_components/jquery-listnav/listnav.jquery.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower_components/jquery-listnav/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/bower_components/jquery-listnav/scss/listnav.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/aside.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/base.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/templates/header.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/phone/settings.py" afterPath="$PROJECT_DIR$/phone/settings.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/phone/urls.py" afterPath="$PROJECT_DIR$/phone/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rehber/admin.py" afterPath="$PROJECT_DIR$/rehber/admin.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rehber/models.py" afterPath="$PROJECT_DIR$/rehber/models.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rehber/serializers.py" afterPath="$PROJECT_DIR$/rehber/serializers.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rehber/urls.py" afterPath="$PROJECT_DIR$/rehber/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rehber/views.py" afterPath="$PROJECT_DIR$/rehber/views.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/templates/rehber/index.html" afterPath="$PROJECT_DIR$/templates/rehber/index.html" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,11 +593,74 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/phone/settings.py">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/rehber/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="40" column="6" lean-forward="false" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
+            <state relative-caret-position="160">
+              <caret line="114" column="0" lean-forward="false" selection-start-line="114" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+                <element signature="e#1147#1621#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/rehber/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/templates/base.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1095">
+              <caret line="73" column="45" lean-forward="false" selection-start-line="73" selection-start-column="45" selection-end-line="73" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="components_notifications.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/assets/js/pages/components_notifications.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="33" lean-forward="false" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery-listnav.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/static/bower_components/jquery-listnav/jquery-listnav.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3090">
+              <caret line="222" column="21" lean-forward="false" selection-start-line="222" selection-start-column="21" selection-end-line="222" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="parsers.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Library/Python/3.6/lib/python/site-packages/rest_framework/parsers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="request.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Library/Python/3.6/lib/python/site-packages/rest_framework/request.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5535">
+              <caret line="381" column="0" lean-forward="false" selection-start-line="381" selection-start-column="0" selection-end-line="381" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -26,55 +670,7 @@
         <entry file="file://$PROJECT_DIR$/rehber/models.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="admin.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rehber/admin.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="29" lean-forward="false" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-              <folding>
-                <element signature="e#0#32#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rehber/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="30" column="25" lean-forward="false" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="serializers.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/rehber/serializers.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="27" lean-forward="false" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
-              <folding>
-                <element signature="e#0#38#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templates/rehber/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" column="46" lean-forward="false" selection-start-line="35" selection-start-column="46" selection-end-line="35" selection-end-column="46" />
+              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -83,8 +679,8 @@
       <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/phone/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+            <state relative-caret-position="195">
+              <caret line="13" column="10" lean-forward="false" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
               <folding>
                 <element signature="e#639#680#0" expanded="true" />
               </folding>
@@ -95,23 +691,9 @@
       <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rehber/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="48" lean-forward="false" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
-              <folding>
-                <element signature="e#0#32#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="apps.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rehber/apps.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="165">
+              <caret line="13" column="45" lean-forward="false" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -121,22 +703,45 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Davil Parnell</find>
+      <find>for</find>
+      <find>assets/js/custom/dense.min.js</find>
+      <find>das</find>
+      <find>all</find>
+      <find>ln-selected</find>
+      <find>0-9</find>
+      <find>2x</find>
+      <find>image</find>
+      <find>ima</find>
+      <find>notify_callback</find>
+      <find>altair_notifications</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/rehber/admin.py" />
-        <option value="$PROJECT_DIR$/templates/rehber/index.html" />
-        <option value="$PROJECT_DIR$/rehber/models.py" />
         <option value="$PROJECT_DIR$/phone/settings.py" />
+        <option value="$PROJECT_DIR$/templates/header.html" />
+        <option value="$PROJECT_DIR$/templates/aside.html" />
+        <option value="$PROJECT_DIR$/rehber/admin.py" />
         <option value="$PROJECT_DIR$/phone/urls.py" />
-        <option value="$PROJECT_DIR$/rehber/urls.py" />
-        <option value="$PROJECT_DIR$/rehber/views.py" />
+        <option value="$PROJECT_DIR$/rehber/models.py" />
         <option value="$PROJECT_DIR$/rehber/serializers.py" />
+        <option value="$PROJECT_DIR$/static/bower_components/jquery-listnav/jquery-listnav.js" />
+        <option value="$PROJECT_DIR$/rehber/urls.py" />
+        <option value="$PROJECT_DIR$/templates/rehber/index.html" />
+        <option value="$PROJECT_DIR$/templates/base.html" />
+        <option value="$PROJECT_DIR$/rehber/views.py" />
       </list>
     </option>
   </component>
@@ -151,6 +756,7 @@
     <option name="width" value="1280" />
     <option name="height" value="773" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -166,6 +772,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -175,6 +782,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="phone" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phone" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phone" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -206,6 +827,116 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phone" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phone" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phone" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phone" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phone" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phone" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phone" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phone" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="components_notifications.js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NestingTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phone" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phone" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="rehber" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -224,16 +955,37 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phone" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phone" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="media" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/bower_components" />
+      <recent name="$PROJECT_DIR$/static" />
+      <recent name="$PROJECT_DIR$/static/js" />
+      <recent name="$PROJECT_DIR$/static/css" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -450,6 +1202,9 @@
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="6efece55-b6a0-4858-bca7-a2125724bc7c" name="Default" comment="" />
@@ -461,19 +1216,20 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="773" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="773" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.503125" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16193181" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.496875" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39914772" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -482,6 +1238,7 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -492,491 +1249,310 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <breakpoints>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rehber/views.py</url>
+          <line>138</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rehber/views.py</url>
+          <line>133</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rehber/views.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rehber/views.py</url>
+          <line>58</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rehber/views.py</url>
+          <line>112</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rehber/views.py</url>
+          <line>114</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/rehber/views.py</url>
+          <line>87</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="24" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/templates/rehber/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/phone/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="17" lean-forward="false" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rehber/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="15" column="11" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="11" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rehber/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="13" column="29" lean-forward="false" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rehber/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/phone/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="20" column="36" lean-forward="false" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
-          <folding>
-            <element signature="e#639#680#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rehber/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="6" column="33" lean-forward="false" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/rehber/apps.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/rehber/index.html">
+    <entry file="file://$PROJECT_DIR$/static/css/animate.min.css" />
+    <entry file="file://$PROJECT_DIR$/static/css/sweet-alert.css" />
+    <entry file="file://$PROJECT_DIR$/static/css/jquery.mCustomScrollbar.min.css" />
+    <entry file="file://$PROJECT_DIR$/static/css/app.min.1.css" />
+    <entry file="file://$PROJECT_DIR$/static/css/app.min.2.css" />
+    <entry file="file://$PROJECT_DIR$/static/js/jquery.min.js" />
+    <entry file="file://$PROJECT_DIR$/static/js/bootstrap.min.js" />
+    <entry file="file://$PROJECT_DIR$/static/js/jquery.mCustomScrollbar.concat.min.js" />
+    <entry file="file://$PROJECT_DIR$/static/js/waves.min.js" />
+    <entry file="file://$PROJECT_DIR$/static/js/bootstrap-growl.min.js" />
+    <entry file="file://$PROJECT_DIR$/static/js/sweet-alert.min.js" />
+    <entry file="file://$PROJECT_DIR$/static/js/functions.js" />
+    <entry file="file://$PROJECT_DIR$/static/js/demo.js" />
+    <entry file="file://$PROJECT_DIR$/static/css/material-design-iconic-font.min.css" />
+    <entry file="file://$PROJECT_DIR$/static/assets/js/pages/login.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="21" lean-forward="false" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
-          <folding />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/assets/css/main.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/bower_components/uikit/css/uikit.almost-flat.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3090">
+          <caret line="206" column="0" lean-forward="false" selection-start-line="206" selection-start-column="0" selection-end-line="206" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/aside.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="45" column="75" lean-forward="false" selection-start-line="45" selection-start-column="75" selection-end-line="45" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/assets/js/pages/page_contact_list_v2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rehber/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="47" lean-forward="false" selection-start-line="26" selection-start-column="47" selection-end-line="26" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/assets/img/avatars/avatar_01.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/assets/img/avatars/avatar_01@2x.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/assets/img/avatars/avatar_01_tn@2x.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/assets/img/avatars/avatar_02.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/assets/img/avatars/avatar_03_tn.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/assets/img/avatars/avatar_07_tn.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/assets/img/avatars/avatar_12_tn.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/phone/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="17" lean-forward="false" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
-          <folding />
+        <state relative-caret-position="1845">
+          <caret line="123" column="0" lean-forward="false" selection-start-line="123" selection-start-column="0" selection-end-line="123" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rehber/models.py">
+    <entry file="file://$PROJECT_DIR$/static/bower_components/jquery-listnav/css/listnav.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="82" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rehber/views.py">
+    <entry file="file://$PROJECT_DIR$/static/bower_components/jquery-listnav/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="465">
+          <caret line="31" column="3" lean-forward="false" selection-start-line="22" selection-start-column="2" selection-end-line="31" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/rehber/index.html">
+    <entry file="file://$USER_HOME$/Library/Python/3.6/lib/python/site-packages/rest_framework/serializers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
-          <folding />
+        <state relative-caret-position="975">
+          <caret line="122" column="0" lean-forward="false" selection-start-line="122" selection-start-column="0" selection-end-line="122" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/phone/urls.py">
+    <entry file="file://$PROJECT_DIR$/static/bower_components/jquery-listnav/bower.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="20" column="36" lean-forward="false" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
-          <folding>
-            <element signature="e#639#680#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rehber/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="6" column="33" lean-forward="false" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rehber/apps.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rehber/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="7" column="34" lean-forward="false" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/phone/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="17" lean-forward="false" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rehber/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="82" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rehber/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rehber/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="10" column="45" lean-forward="false" selection-start-line="10" selection-start-column="45" selection-end-line="10" selection-end-column="45" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/phone/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="20" column="36" lean-forward="false" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
-          <folding>
-            <element signature="e#639#680#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rehber/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="6" column="33" lean-forward="false" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/rehber/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/phone/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="17" lean-forward="false" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rehber/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rehber/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/phone/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="20" column="36" lean-forward="false" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
-          <folding>
-            <element signature="e#639#680#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rehber/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="6" column="33" lean-forward="false" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rehber/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/phone/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rehber/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rehber/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/phone/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="20" column="36" lean-forward="false" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
-          <folding>
-            <element signature="e#639#680#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rehber/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="6" column="33" lean-forward="false" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/phone/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rehber/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="7" column="1" lean-forward="false" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rehber/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/phone/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="20" column="36" lean-forward="true" selection-start-line="20" selection-start-column="36" selection-end-line="20" selection-end-column="36" />
-          <folding>
-            <element signature="e#639#680#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rehber/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="6" column="33" lean-forward="false" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/phone/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/phone/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#639#680#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rehber/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="29" lean-forward="false" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rehber/apps.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/rehber/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="46" lean-forward="false" selection-start-line="35" selection-start-column="46" selection-end-line="35" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/phone/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="6" lean-forward="false" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/phone/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding>
-            <element signature="e#639#680#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rehber/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="48" lean-forward="false" selection-start-line="10" selection-start-column="48" selection-end-line="10" selection-end-column="48" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rehber/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="30" column="25" lean-forward="false" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/rehber/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
+          <caret line="19" column="9" lean-forward="false" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rehber/serializers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="27" lean-forward="false" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        <state relative-caret-position="210">
+          <caret line="15" column="58" lean-forward="false" selection-start-line="15" selection-start-column="58" selection-end-line="15" selection-end-column="58" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Python/3.6/lib/python/site-packages/rest_framework/request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5535">
+          <caret line="381" column="0" lean-forward="false" selection-start-line="381" selection-start-column="0" selection-end-line="381" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Python/3.6/lib/python/site-packages/rest_framework/parsers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="59" column="0" lean-forward="false" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/20150501_161746.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/resim_qiX259D.jpeg" />
+    <entry file="file://$PROJECT_DIR$/media/resim_yKfvbxB.jpeg" />
+    <entry file="file://$PROJECT_DIR$/media/20161030_182719.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/media/resim.jpeg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/bower_components/jquery-listnav/jquery-listnav.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3090">
+          <caret line="222" column="21" lean-forward="false" selection-start-line="222" selection-start-column="21" selection-end-line="222" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phone/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="10" lean-forward="false" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+          <folding>
+            <element signature="e#639#680#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rehber/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rehber/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="13" column="45" lean-forward="false" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/rehber/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="16" lean-forward="false" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/assets/js/pages/components_notifications.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="33" lean-forward="false" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1095">
+          <caret line="73" column="45" lean-forward="false" selection-start-line="73" selection-start-column="45" selection-end-line="73" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rehber/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="114" column="0" lean-forward="false" selection-start-line="114" selection-start-column="0" selection-end-line="114" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#1147#1621#0" expanded="false" />
           </folding>
         </state>
       </provider>
